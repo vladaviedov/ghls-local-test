@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@vladaviedov/gh-lang-stats": "file:/home/vlad/Code/gh-lang-stats"
+  },
+  "scripts": {
+	"start": "source .env && npx gh-lang-stats"
+  }
+}
