@@ -1,4 +1,9 @@
 node_modules/
 
-# Secrets
+# Secrets & Personal
 .env
+ignore.yml
+
+# Generated files
+data.json
+generated.svg
